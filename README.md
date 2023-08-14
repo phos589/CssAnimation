@@ -1,2 +1,2 @@
 # CssAnimation
-simple Css animation. 
+simple smoke animation using css
